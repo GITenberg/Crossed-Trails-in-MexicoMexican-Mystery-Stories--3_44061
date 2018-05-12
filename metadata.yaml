@@ -1,0 +1,28 @@
+_repo: Crossed-Trails-in-MexicoMexican-Mystery-Stories--3_44061
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44061-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Randolph, Helen
+    gutenberg_agent_id: '42558'
+    url: http://www.gutenberg.org/2009/agents/42558
+description: ''
+gutenberg_issued: '2013-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44061'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Americans -- Mexico -- Juvenile fiction'
+- !lcsh 'Young women -- Juvenile fiction'
+- !lcsh 'Mystery fiction'
+- !lcc 'PZ'
+title: 'Crossed Trails in Mexico
+
+  Mexican Mystery Stories #3'
+url: http://www.gutenberg.org/ebooks/44061
